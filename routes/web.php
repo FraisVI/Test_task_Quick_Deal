@@ -14,9 +14,3 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'App\Http\Controllers\TaskController@index');
-Route::get('/', 'App\Http\Controllers\TaskController@Sort');
-Route::get('/', 'App\Http\Controllers\TaskController@Sort');
-Route::get('/', 'App\Http\Controllers\TaskController@Sort');
-Route::get('/', 'App\Http\Controllers\TaskController@Sort');
-Route::get('/', 'App\Http\Controllers\TaskController@Sort');
-Route::get('/', 'App\Http\Controllers\TaskController@Sort');
